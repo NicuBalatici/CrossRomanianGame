@@ -1,0 +1,14 @@
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/bin/Debug/net8.0/Nicolae_Balatici_Cross
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/bin/Debug/net8.0/Nicolae_Balatici_Cross.deps.json
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/bin/Debug/net8.0/Nicolae_Balatici_Cross.runtimeconfig.json
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/bin/Debug/net8.0/Nicolae_Balatici_Cross.dll
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/bin/Debug/net8.0/Nicolae_Balatici_Cross.pdb
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/obj/Debug/net8.0/Nicolae_Balatici_Cross.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/obj/Debug/net8.0/Nicolae_Balatici_Cross.AssemblyInfoInputs.cache
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/obj/Debug/net8.0/Nicolae_Balatici_Cross.AssemblyInfo.cs
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/obj/Debug/net8.0/Nicolae_Balatici_Cross.csproj.CoreCompileInputs.cache
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/obj/Debug/net8.0/Nicolae_Balatici_Cross.dll
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/obj/Debug/net8.0/refint/Nicolae_Balatici_Cross.dll
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/obj/Debug/net8.0/Nicolae_Balatici_Cross.pdb
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/obj/Debug/net8.0/Nicolae_Balatici_Cross.genruntimeconfig.cache
+/Users/balaticinicolae/Library/CloudStorage/OneDrive-Personal/Documente/Facultate AC 2022-2026 LICENTA/POLI_AN_3/SEM1/CFLP proiect/Nicolae_Balatici_Cross/obj/Debug/net8.0/ref/Nicolae_Balatici_Cross.dll
